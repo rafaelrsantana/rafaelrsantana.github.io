@@ -1,9 +1,9 @@
 html {
-    cursor: url(rafaelrsantana.github.io/imagens/mata_mosquito.png) 30 30, auto;
+    cursor: url(imagens/mata_mosquito.png) 30 30, auto;
 }
 
 body {
-    background-image: url(/rafaelrsantana.github.io/imagens/bg.jpg);
+    background-image: url(imagens/bg.jpg);
     background-size: cover;
 }
 
